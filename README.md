@@ -1,8 +1,6 @@
 ---
 title: Multi-PDF RAG Assistant
 
-<img width="1536" height="910" alt="RAG1" src="https://github.com/user-attachments/assets/d4c32064-1905-4347-b807-131b34053180" />
-
 emoji: 📚
 colorFrom: indigo
 colorTo: purple
@@ -12,9 +10,12 @@ pinned: false
 license: mit
 ---
 
-# 📚 Multi-PDF RAG Assistant
 
 <img width="1536" height="910" alt="RAG1" src="https://github.com/user-attachments/assets/d4c32064-1905-4347-b807-131b34053180" />
+
+
+# 📚 Multi-PDF RAG Assistant
+
 
 
 
