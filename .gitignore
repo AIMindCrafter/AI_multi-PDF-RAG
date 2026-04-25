@@ -1,0 +1,30 @@
+# Runtime directories
+uploaded_pdfs/
+chroma_db/
+vector_db_dir/
+
+# Large files — don't push to GitHub
+*.zip
+*.pdf
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+myenv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Duplicates
+requirements copy.txt
+*.png
+*.ipynb
+*.ipynb
