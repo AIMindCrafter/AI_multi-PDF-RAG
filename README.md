@@ -11,6 +11,15 @@ license: mit
 
 # 📚 Multi-PDF RAG Assistant
 
+<img width="1536" height="910" alt="RAG1" src="https://github.com/user-attachments/assets/d4c32064-1905-4347-b807-131b34053180" />
+
+
+
+<img width="1579" height="915" alt="RAG2" src="https://github.com/user-attachments/assets/2abeae48-f69a-4b56-a5b8-eb49e186316e" />
+
+
+
+
 A fully local, API-key-free **Retrieval-Augmented Generation** system that lets you upload PDFs and ask questions about them with source citations.
 
 ## 🏗️ Architecture
