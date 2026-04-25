@@ -1,14 +1,3 @@
----
-title: Multi-PDF RAG Assistant
-
-emoji: 📚
-colorFrom: indigo
-colorTo: purple
-sdk: docker
-app_port: 7860
-pinned: false
-license: mit
----
 
 
 <img width="1536" height="910" alt="RAG1" src="https://github.com/user-attachments/assets/d4c32064-1905-4347-b807-131b34053180" />
